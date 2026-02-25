@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Spam!",
+  "base_artist": "AVACLUB",
+  "createdAt": "2026-02-25T06:24:04.530612Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spam",
+      "artist": "Beginner",
+      "has_synced": true,
+      "path": "select/01_Spam_Beginner.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spam",
+      "artist": "Absolute Beginner",
+      "has_synced": true,
+      "path": "select/02_Spam_Absolute_Beginner.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spam",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/03_Spam_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DON'T SPAM ME(Digital Remastering)",
+      "artist": "Loudness",
+      "has_synced": false,
+      "path": "select/04_DON'T_SPAM_ME(Digital_Remastering)_Loudness.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Spam Me",
+      "artist": "Loudness",
+      "has_synced": false,
+      "path": "select/05_Don't_Spam_Me_Loudness.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A.D.D. S.U.V. (Hudson Mohawke's Spam Fajita Remix)",
+      "artist": "Uffie",
+      "has_synced": false,
+      "path": "select/06_A.D.D._S.U.V._(Hudson_Mohawke's_Spam_Fajita_Remix)_Uffie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SPAM",
+      "artist": "M¥SS KETA",
+      "has_synced": true,
+      "path": "select/07_SPAM_M¥SS_KETA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spam",
+      "artist": "Monty Python",
+      "has_synced": false,
+      "path": "select/08_Spam_Monty_Python.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spam Song - Edit",
+      "artist": "Monty Python",
+      "has_synced": false,
+      "path": "select/09_Spam_Song_-_Edit_Monty_Python.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spam Song (Edit)",
+      "artist": "Monty Python",
+      "has_synced": false,
+      "path": "select/10_Spam_Song_(Edit)_Monty_Python.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spam",
+      "artist": "'Weird Al' Yankovic",
+      "has_synced": true,
+      "path": "select/11_Spam_'Weird_Al'_Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Spam",
+      "artist": "Weird Al Yankovic",
+      "has_synced": true,
+      "path": "select/12_Spam_Weird_Al_Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Spam",
+      "artist": "Save Ferris",
+      "has_synced": true,
+      "path": "select/13_Spam_Save_Ferris.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Spam Song",
+      "artist": "Monty Python",
+      "has_synced": false,
+      "path": "select/14_Spam_Song_Monty_Python.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Spam",
+      "artist": "Weird Al Yankovic",
+      "has_synced": false,
+      "path": "select/15_Spam_Weird_Al_Yankovic.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Spam",
+      "artist": "“Weird Al” Yankovic",
+      "has_synced": true,
+      "path": "select/16_Spam_“Weird_Al”_Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Spam 2 Lamb",
+      "artist": "G Herbo",
+      "has_synced": true,
+      "path": "select/17_Spam_2_Lamb_G_Herbo.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Spam 2 Lamb",
+      "artist": "G Herbo",
+      "has_synced": true,
+      "path": "select/18_Spam_2_Lamb_G_Herbo.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "SPAM",
+      "artist": "Kukon feat. SLEVTH & Kosmos",
+      "has_synced": true,
+      "path": "select/19_SPAM_Kukon_feat._SLEVTH_&_Kosmos.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spam!",
+      "artist": "AVACLUB",
+      "has_synced": false,
+      "path": "select/pl_01_Spam!_AVACLUB.txt"
+    }
+  ]
+}
